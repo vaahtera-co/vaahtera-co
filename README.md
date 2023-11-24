@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://vaahtera.my.id/)
 <h1 align="center">Hi 👋, I'm Vaahtera</h1>
 <h3 align="center">Students with passion and interest in Tech and IT</h3>
-<img align="right" alt="devops" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+<img align="right" alt="devops" width="401" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaahteraa&label=Profile%20views&color=0e75b6&style=flat" alt="vaahteraa" /> </p>
 
