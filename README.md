@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/vaahteraa" target="blank"><img src="https://img.shields.io/twitter/follow/vaahteraa?logo=twitter&style=for-the-badge" alt="vaahteraa" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps, Kubernetes, Cloud-Native & the Future of Software**
+- 🌱 I’m currently learning **DevSecOps, Kubernetes, Cloud-Native**
 - ⚡ Fun fact **If we give up when the going gets tough, we'll only have sad memories and regrets.**
 
 <h3 align="left">Connect with me:</h3>
